@@ -1,1 +1,1 @@
-# spring-boot-jdbctemplate
+# spring-boot-jdbctemplate-postgresql
